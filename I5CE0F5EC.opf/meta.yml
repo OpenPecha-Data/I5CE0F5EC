@@ -1,0 +1,38 @@
+id: I5CE0F5EC
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:06:14.522953'
+last_modified: '2022-06-19T01:06:14.522965'
+parser: null
+source_metadata:
+  title: Cha rgans Hagiography of Virūpa
+  author: cha rgan/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2014-03-06); pagination incomplete (witness B), revision in process, thematic
+    TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre; This text was published by Sachen International.
+    (src)
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:Mathias Fermer (mf), Gabi Coura (gc)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:blo gsal don grub/ (ld)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/207
+  bases:
+    60fb:
+      title: Cha rgans Hagiography of Virūpa
+      order: 1
+      base_file: 60fb.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
